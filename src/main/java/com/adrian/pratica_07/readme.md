@@ -16,6 +16,8 @@ Ex 02:
 ###
 ![Ex02_Testes](https://cdn.discordapp.com/attachments/966037769476534283/966179770675118160/unknown.png)
 ##
+Ex 03:
+###
 ![Ex03](https://cdn.discordapp.com/attachments/966037769476534283/968921240360329216/pratica7_EX03.png)
 ###
 ![Ex03_Testes](https://cdn.discordapp.com/attachments/966037769476534283/968921240767189103/pratica7_EX03_Testes.png)
