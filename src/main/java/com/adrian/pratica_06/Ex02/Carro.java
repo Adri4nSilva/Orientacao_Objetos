@@ -5,7 +5,12 @@ public class Carro extends Veiculo
     private int numeroDePortas;
     private int potenciaMotor;
     //══════════⊹⊱❖⊰⊹════════════
-    
+    public Carro(int renavam, String placa, String cor, int numeroDePortas, int potenciaMotor) 
+    {
+        super(renavam, placa, cor);
+        this.numeroDePortas = numeroDePortas;
+        this.potenciaMotor = potenciaMotor;
+    }
     //══════════⊹⊱❖⊰⊹════════════
     public int getNumeroDePortas()
     {
