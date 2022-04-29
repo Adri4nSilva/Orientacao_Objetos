@@ -4,14 +4,9 @@ public class Usuario {
     private String login;
     private String password;
     // ══════════⊹⊱❖⊰⊹════════════
-    public Usuario()
-    {
-
-    }
-    // ══════════⊹⊱❖⊰⊹════════════
     public String getLogin() 
     {
-        return login;
+        return this.login;
     }
     // ══════════⊹⊱❖⊰⊹════════════
     public void setLogin(String login) 
@@ -21,7 +16,7 @@ public class Usuario {
     // ══════════⊹⊱❖⊰⊹════════════
     public String getPassword() 
     {
-        return password;
+        return this.password;
     }
     // ══════════⊹⊱❖⊰⊹════════════
     public void setPassword(String password) 

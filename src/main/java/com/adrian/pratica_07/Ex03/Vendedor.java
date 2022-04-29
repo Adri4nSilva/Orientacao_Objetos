@@ -5,7 +5,8 @@ public class Vendedor extends Usuario{
     //══════════⊹⊱❖⊰⊹════════════
     public Vendedor(String login, String password, double comissao)
     {
-        super();
+        super.setLogin(login);
+        super.setPassword(password);
         this.comissao = comissao;
     }
     //══════════⊹⊱❖⊰⊹════════════

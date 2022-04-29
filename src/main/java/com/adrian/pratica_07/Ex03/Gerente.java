@@ -6,7 +6,8 @@ public class Gerente extends Usuario {
     //══════════⊹⊱❖⊰⊹════════════
     public Gerente(String login, String password, double salario, double bonus)
     {
-        super();
+        super.setLogin(login);
+        super.setPassword(password);
         this.salario = salario;
         this.bonus = bonus;
     }
