@@ -17,5 +17,6 @@ Ex 03:
 ![Ex03](https://cdn.discordapp.com/attachments/966037769476534283/981615318449405972/unknown.png)
 ###
 ![Ex03_Testes](https://cdn.discordapp.com/attachments/966037769476534283/981629919161385026/unknown.png)
-![Ex03_Testes](https://cdn.discordapp.com/attachments/966037769476534283/981630122803200110/unknown.png)
+###
+![Ex03_Testes](https://cdn.discordapp.com/attachments/966037769476534283/981677510230159400/unknown.png)
 ##
